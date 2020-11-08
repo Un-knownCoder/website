@@ -1,7 +1,7 @@
 {
   "name": "vettori-web",
   "description": "vettori sas website",
-  "version": "alpha0.1",
+  "version": "alpha0.2",
   "private": true,
   "scripts": {
     "dev": "sapper dev",
@@ -10,7 +10,8 @@
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
-    "test": "run-p --race dev cy:run"
+    "test": "run-p --race dev cy:run",
+    "do_something": "node test.js"
   },
   "dependencies": {
     "compression": "^1.7.1",
