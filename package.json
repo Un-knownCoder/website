@@ -1,7 +1,7 @@
 {
   "name": "vettori-web",
   "description": "vettori sas website",
-  "version": "alpha0.1",
+  "version": "alpha0.2",
   "private": true,
   "scripts": {
     "dev": "sapper dev",
