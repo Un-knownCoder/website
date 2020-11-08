@@ -2,7 +2,7 @@
   "name": "vettori-web",
   "description": "vettori sas website",
   "version": "alpha0.2",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",
